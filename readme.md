@@ -4,7 +4,7 @@
 
 ### Installation
 
-PHP requires [composer](https://composer.org/)  to run.
+PHP requires [composer](https://getcomposer.org/)  to run.
 
 Install the dependencies and devDependencies and start the server.
 
